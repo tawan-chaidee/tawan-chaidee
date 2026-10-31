@@ -1,17 +1,17 @@
 # Tawan Chaidee
 
-Software developer building practical applications across full-stack web, mobile, and information retrieval. I enjoy projects that combine a clear user experience with real technical depth.
+Projects completed during university and early self-directed learning.
 
-## Featured projects
+## Selected University Projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| [RiggedSpinWheel](https://github.com/tawan-chaidee/RiggedSpinWheel) | Real-time shared rooms with C# .NET, SignalR, and a lightweight JavaScript client |
-| [Kapao Queen](https://github.com/tawan-chaidee/Kapao-Queen-ReactApp) | Full-stack food ordering with React, Express, MySQL, JWT, and team collaboration |
-| [GeoTask](https://github.com/tawan-chaidee/ITCS424-GeoTask) | Flutter task management with Firebase, location selection, and live weather |
-| [Manga IR System](https://github.com/tawan-chaidee/MangaIRSystem) | Elasticsearch-based information retrieval with data scraping and a TypeScript interface |
-| [Image Steganography](https://github.com/tawan-chaidee/Image-Steganography) | LSB image encoding with Fernet-encrypted payloads and an interactive Colab notebook |
-| [Simple XO](https://github.com/tawan-chaidee/Simple-XO-game) | A compact browser game with vanilla JavaScript, game-state logic, and animation |
+| Project | Context | Focus |
+| --- | --- | --- |
+| [Manga IR System](https://github.com/tawan-chaidee/MangaIRSystem) | University information-retrieval project | Elasticsearch, data scraping, and full-text search |
+| [Kapao Queen](https://github.com/tawan-chaidee/Kapao-Queen-ReactApp) | Team coursework | React, Express, MySQL, and JWT authentication |
+| [GeoTask](https://github.com/tawan-chaidee/ITCS424-GeoTask) | Mobile-computing coursework | Flutter, Firebase, location selection, and weather |
+| [Image Steganography](https://github.com/tawan-chaidee/Image-Steganography) | University group project | Python, image processing, LSB encoding, and Fernet encryption |
+| [RiggedSpinWheel](https://github.com/tawan-chaidee/RiggedSpinWheel) | Early self-directed project | Real-time rooms with C# .NET, SignalR, and JavaScript |
+| [Simple XO](https://github.com/tawan-chaidee/Simple-XO-game) | Early front-end practice | Vanilla JavaScript, game-state logic, and CSS animation |
 
 ## Toolkit
 
@@ -20,7 +20,3 @@ Software developer building practical applications across full-stack web, mobile
 - **Mobile:** Flutter
 - **Data and search:** Elasticsearch, MySQL, Firebase
 - **Tools:** Git, Docker, Jupyter, GitHub Actions
-
-## Working style
-
-I value readable code, clear documentation, and projects that are straightforward for another developer to run and understand.
